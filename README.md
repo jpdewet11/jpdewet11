@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpdewet11
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning the basics of software engineering
+- 🌱 I’m currently learning the basics of software engineering like JavaScript
 - 💞️ I’m looking to collaborate on anything
 
 <!---
